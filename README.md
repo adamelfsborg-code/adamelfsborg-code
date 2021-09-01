@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @adamelfsborg-code
-- 👀 I’m interested in photography and programming
+- 👋 Hi, I’m @adamelfsborg-code.
+- 👀 I’m interested in photography and programming.
 - 🌱 I’m currently learning software development.
 - 📫 How to reach me.
     - Email: adamelfsborg.dev@gmail.com 
