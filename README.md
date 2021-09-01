@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamelfsborg-code
-- 👀 I’m interested in photography, padel and of course CODING
-- 🌱 I’m currently learning software development with django,react and postgres
+- 👀 I’m interested in photography and programming
+- 🌱 I’m currently learning software development.
 - 📫 How to reach me.
     - Email: adamelfsborg.dev@gmail.com 
     - Twitter: https://twitter.com/AdamElfsborg1
