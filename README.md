@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamelfsborg-code.
 - 👀 I’m interested in photography and programming.
-- 🌱 I’m currently learning software development.
+- 🌱 I’m currently working at `MTEK Industry AB` as a software developer.
 - 📫 How to reach me.
     - Email: adamelfsborg.dev@gmail.com 
     - Twitter: https://twitter.com/AdamElfsborg1
